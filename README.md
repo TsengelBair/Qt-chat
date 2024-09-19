@@ -23,3 +23,9 @@ chmod +x имя_файла
 ### Тестовые сообщения
 
 ![5](/img/5.jpg)
+
+
+
+
+https://github.com/user-attachments/assets/ca626a15-7d57-4cb1-a26a-72326078146d
+
